@@ -1,1 +1,1 @@
-# laboratornaya-rabota-1-znakomstvo-s-lisp-muratsalakhov
+Лабораторная работа 1. Знакомство с lisp.
